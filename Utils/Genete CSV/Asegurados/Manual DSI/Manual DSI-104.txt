@@ -1,0 +1,212 @@
+﻿1.Canales de Comunicación Oficiales
+
+Canal de entrega de información oficial: dsi.fiusac@gmail.com
+
+Canal de comunicación con coordinador DTT: marin2m@gmail.com
+
+Todos los correos, correspondientes al control del DSI-104 que competen a los manuales de comportamiento y DSI-104, enviados directamente al coordinador del DTT deben de llevar obligatoriamente una copia al correo del equipo del DSI.
+
+Plataforma oficiales:
+Plataforma oficial para proceso educativo: UEDI
+Plataforma oficial para proceso de práctica: DTT
+
+2.Foros
+
+Medio para resolver dudas de los estudiantes durante la semana. Para tener nota completa de los foros se debe cumplir con lo siguiente:
+
+1. Crear el evento en DTT al inicio de cada semana (captura del momento en que se crea, bien detallado).
+
+2. Crear foro en UEDI al inicio de cada semana (captura del momento en que se crea).
+
+3. Interacción con los alumnos en dicho foro (capturas de pantalla, explicar si no se tuvieron preguntas por los estudiantes en dicho foro).
+
+4. Los únicos medios de interacción con los alumnos son UEDI; Classroom o correo electrónico solo para los tutores sin acceso a UEDI. Otros canales de comunicación no se tomarán en cuenta.
+
+5. Habrá penalización si los foros son entregados sin ser respondidos o con respuestas muy fuera del rango del foro.
+
+6. Existirá penalización (y/o anulación*) si en las imágenes de los foros enviados no se visualiza la fecha y hora, están alteradas, recortadas o editadas (deben estar en pantalla completa y legibles) 
+
+Se debe cumplir con lo solicitado en la plantilla de foros para realizar la entrega. El entregable debe ser un documento PDF que se subirá en un formulario por semana, el cual estará habilitado cada domingo de 00:01 hasta las 23:59 del día lunes.
+
+Ponderación: Captura DTT (35%) / UEDI (35%) y evidencia de interacción con alumnos (30%). Podrán visualizarla más detalladamente en la plantilla de foros. 
+
+Para esto se debe usar la plantilla oficial: https://docs.google.com/document/d/1UfceCXQRop-HZdtcXValejupHrIrx0eqR0Ve9-k0APs/edit
+
+Links de formularios de foros: https://dsifiusac.wixsite.com/tutores/entrega-foros
+
+3.Auditorias
+
+Auditorías de asistencias de laboratorios, con el objetivo de garantizar que cuando el equipo 104 ingrese a validar la asistencia al inicio y final se esté impartiendo laboratorio (compuesto por dos periodos de 50 min). El procedimiento será el siguiente:
+
+1. En los primeros 5 minutos iniciado el laboratorio, el personal 104 procederá a ingresar a la sesión para tomar la asistencia de inicio de laboratorio.
+
+2. En el rango de los minutos 80 al 90 se ingresará para verificar la asistencia de salida de laboratorio.
+
+Las 2 marcas de auditoría suman el 100% de la asistencia y el fallo de alguna penaliza con el 50%.
+
+Se aclara que las actividades sin métrica no pueden ser consideradas como actividades planificadas dentro de DTT, ya que son actividades insertadas durante el periodo de ingreso del reporte.
+
+Dentro de sus actividades planificadas en el portal DTT se debe tomar en cuenta los Asuetos Oficiales para no afectar el contenido de su laboratorio.
+
+Cada semana se reportará a través de un correo al coordinador DTT todos los casos que se encuentren con algún tipo de problema tanto de entrada como de salida, con copia a los practicantes que cometieron dichas faltas.
+
+Todos los formularios de entregables tienen implementado el sistema de notificación por correo, para que puedan verificar sus entregas. Si no recibe dicha confirmación proceder a documentar con screenshots y notificar al correo del DSI 104 y seguir intentando enviar su entregable.
+
+Si se realizan calificaciones o actividades que sobrepasen el tiempo total del laboratorio se debe parar la grabación y al obtener el enlace de la grabación ingresarlo al formulario; entregar el resto de la actividad grabada por medio del correo del DSI, de no hacerlo como se indicó anteriormente será tomado como una falta.
+
+Si la grabación aún no se encuentra disponible para ser visualizada, pero ya posee el enlace de la grabación, entregar ese enlace ya que no se aceptará como justificación que el vídeo no esté disponible para su visualización.
+
+
+Al momento de realizar una calificación es necesario mostrar la presentación de la actividad realizada cuando se tenga una inactividad prolongada.
+
+Para los cursos sin laboratorio en modalidad semipresencial, al momento de realizar actividades presenciales es necesario justificar su asistencia con los siguientes entregables:
+
+● Una foto en modo selfie, en donde se identifique el salón y los estudiantes.
+
+● Una foto en modo selfie, en donde se identifique el catedrático del curso.
+
+● Una foto en donde se pueda observar la fecha actual.
+
+Este entregable solo será válido enviarlo al formulario de asistencia de la fecha que corresponda, durante el primer periodo del curso.
+
+Si por alguna falla de internet el tutor no puede realizar la entrega. Es necesario que el catedrático del curso firme el documento de “Control de Asistencia” que deberá ser subido por el tutor al link de asistencia correspondiente (Teniendo como límite las 23:59 del día del curso).
+
+Documento de Control de Asistencia: Documento Control Asistencia sin Laboratorio. Para esto se debe usar la plantilla oficial:  https://docs.google.com/document/d/1iWgQsCp1oM15DBJayPuKlCz-eYem3gM7kPRPFPv3Fos/edit
+
+De realizar la entrega no aplicando correctamente la opción seleccionada, la asistencia no será tomada en cuenta.
+
+4. Obligaciones del tutor
+
+Responsabilidades que deben de cumplir los tutores académicos para poder realizar las diferentes auditorias por parte del equipo 104:
+
+a) Garantiza el acceso a los videos publicados con los permisos públicos para garantizar que el equipo 104 pueda visualizarlos.
+
+b) Si al tutor académico en su sala de meet no le aparece la opción de grabación en su laboratorio, deberá de utilizar una herramienta externa para garantizar su asistencia.
+
+c) Garantizar el ingreso al equipo 104 para realizar la asistencia de entrada y salida en el salón meet en el horario de laboratorio
+
+d) El acceso a los links de meet de los laboratorios sean los correctos
+
+e) Garantizar el espacio en horario de laboratorio para realizar las evaluaciones de desempeño que se le practica a cada uno de los tutores académicos por parte del equipo 104
+
+f) Informar fallas técnicas (problemas de fluido eléctrico, internet) y casos de salud en su horario de impartir laboratorio:
+
+En caso de falla de internet:
+
+i) Tomar fotos/videos de su equipo validando la hora y el estatus de la red ejemplos: router sin internet (se validará el comportamiento de las luces y que adjunte fotografía tipo selfie) estatus de ping, estatus de la red en opciones de red de windows.
+
+En caso de fallo de fluido eléctrico:
+
+i) Tomar fotos de evidencia como: si tiene laptop foto de la carga y si es equipo de escritorio foto del equipo apagado (adjuntando fotografía tipo selfie para constatar veracidad).
+
+ii) Documento donde la empresa informa que un sector no contará con energía eléctrica (si es notificado con anterioridad).
+
+En caso de problemas de salud:
+
+i. Llamar o enviar un mensaje por whatsapp al coordinador de práctica antes de impartir su laboratorio para evaluar el caso y asegurar documentos de respaldo (constancias médicas, recetas, fotos en hospital)
+
+ii. Casos de accidentes demostrables
+
+iii. Emergencias familiares (Padres, Hermanos, Espos@, Hijos) que sea demostrable el apoyo hacia el familiar, otros casos especificar la situación y será evaluado. iv. Se enfatiza que cualquier caso de gravedad de salud debe ser informado, los casos son confidenciales a nivel de administración de la escuela de sistemas.
+
+(Únicamente para estos casos: salud, fluido eléctrico y fallos de internet se debe de informar de inmediato vía telefónica(llamada o whatsapp) al coordinador DTT el número es 57236391, no se atenderán otro tipo de casos.)
+
+Para cualquier inconveniente que se presente deberá inmediatamente tomarse una fotografía tipo selfie y/o tener presente un documento que respalde el evento que se está documentando para tener veracidad.
+
+g) Para los cursos con varias secciones donde los enunciados de proyectos, hojas de trabajo y tareas son las mismas, todos los tutores de este curso, tienen que coordinar y realizar reuniones previas para resolver en el momento oportuno cualquier duda basado en el conocimiento grupal de los tutores del curso, para evitar desconocimiento ante los estudiantes. Este numeral se valida a través de las evaluaciones de desempeño.
+
+De cumplir con lo establecido se evaluará su falta para ser tomada en cuenta, de no realizarlo su falta será penalizada.
+
+5.Grabaciones
+
+1. Se habilitará un formulario por día para la entrega de la grabación del laboratorio.
+
+2. Debe ser enviado el mismo día que se imparte laboratorio para que sea tomado en cuenta ya que los links tienen tiempo límite con hora de cierre a las 11:59 pm.
+
+3. Se debe enviar lo siguiente:
+○ Link del video
+○ Link del Meet
+○ Carnet
+
+4. Duración de videos mínimo 90 minutos, con un total del 100% de efectividad.
+
+5. Se revisará cada uno de los laboratorios impartidos para revisar la efectividad de cada uno de estos.
+
+6. Si el laboratorio tiene menos del 80% de efectividad se tomará como reprobado y falta para lo cual se usará la siguiente fórmula:
+
+Nota_asistencia = (Tiempo_efectivo * 100)/90
+
+Tiempo_efectivo = Total_tiempo_video - Tiempo_no_efectivo_detectado
+
+7. Enviar el link del vídeo con permisos públicos para su revisión.
+
+8. El procedimiento de grabaciones aplica a tutores con laboratorio y a tutores sin laboratorio, para el caso de tutores con y sin laboratorio sin la opción de grabación en sus salas meet deberán de utilizar una herramienta externa para poder grabar la sesión (Esta grabación deberá de ser independiente a la grabación del ingeniero que imparta la clase.) (Ej. OBS, Camtasia ).*
+
+9. Para el caso de los tutores que no imparten laboratorio, el tiempo efectivo se basará sobre el tiempo total impartido por el docente. Si la duración de la clase es menor a los 71 minutos obtendrán una nota mínima(80% de efectividad).
+
+10. Únicamente pueden tener una falta justificada (especificadas en el apartado Obligaciones del tutor, inciso f), que podrán ingresar dentro de la plataforma DTT y serán evaluadas por el coordinador. Para los tutores que laboran solo es permitida una falta laboral en el semestre con la respectiva justificación firmada por el jefe inmediato.
+
+11. Si durante la grabación realiza un actividad como por ejemplo una hoja de trabajo, resolución de dudas o exámenes cortos, para garantizar que el alumnado está conectado debe de visualizarse la pantalla de meet con la opción de participantes activa para que cuando se realice la auditoría se pueda probar que los alumnos están conectados y hacerles valer su tiempo efectivo.
+
+12. Si el tutor desea presentar elementos audiovisuales(videos educativos) en su clase, estos deben tener una duración menor a 10 minutos. Si excede los 10 min no se tomará el tiempo restante como efectivo de la grabación.
+
+13. Para todo tutor que acumule casos donde sus videos no tengan acceso público para la evaluación del video por el equipo DSI 104. De tener 3 casos acumulados sin acceso a la grabación se penalizará una asistencia.
+
+14. Si al momento de hacer la entrega en el formulario aún no se ha terminado de procesar el video, aún así debe de entregar el link del mismo para su posterior auditoría y notificar por correo al equipo DSI 104 de su situación.
+
+15. Para el caso donde tenga inconvenientes sobre que Google Drive genere de forma incorrecta la grabación de laboratorio, debe realizar los siguientes pasos:
+
+○ Enviar captura de pantalla del correo enviado por Google Drive el estado de la grabación, mostrando fecha y hora.
+
+○ Enviar captura de pantalla del correo enviado por Google Drive con la grabación terminada de procesar, mostrando fecha y hora.
+
+○ Adjuntar link de grabación.
+
+16. Al momento de realizar una entrega, se debe verificar la información enviada, y que todos los datos sean correctos, de lo contrario se tomará como una penalización en los siguientes casos:
+
+○ Envío reiterado de datos incorrectos en el formulario.
+
+○ Envío de carpeta de Google Drive en lugar de su respectiva grabación de laboratorio.
+
+Links de formularios de grabaciones: https://dsifiusac.wixsite.com/tutores/asistencia-laboratorios
+
+6.Hojas de Calificación
+
+1. El formulario para hojas de calificación de prácticas y/o proyectos no cambia durante todo el semestre, siempre estará activo.
+
+2. La entrega es individual.
+
+3. Se aplica únicamente para tutores que imparten laboratorio.
+
+4. Si se concede alguna prórroga que afecte las fechas de calificación ya calendarizadas, se debe volver a llenar el formulario y enviar un correo al DSI para notificar el cambio.
+
+Para tener nota completa de los hojas de calificación se debe cumplir con lo siguiente:
+
+● Las hojas se deben enviar 3 días antes de que se realice la calificación.
+
+● Debe estar aprobada por el catedrático del curso (adjuntar una captura al final de la hoja de calificación donde se observe que está aprobada), si para el momento que se llene el formulario aún no está aprobada, se puede subir así (pero debe ir al menos una captura donde aparezca que si se le notificaron al catedrático acerca de la hoja de calificación), y agregar en el comentario al final del formulario que aún no está aprobada, y cuando se apruebe se debe notificar al correo de DSI para que su nota no sea afectada.
+
+Links de formulario de hojas de calificación: https://forms.gle/MbSjNZaHdFhy2138A
+
+7.Inconvenientes en la ejecución de labores 
+Todos los tutores pueden agendar hasta 3 reuniones por semestre, con el coordinador del DTT y el equipo del DSI, para exponer algún inconveniente que tengan en la realización de sus labores como tutores académicos. (Ejem. casos relevantes de inconvenientes con alumnos como casos de plagios encontrados o situaciones personales antes de las evaluaciones de rendimiento)
+
+8.Medios de acceso rápido para ingresar a formularios
+
+Ingreso de link de vídeos de asistencia de laboratorios:
+
+- Link directo: https://dsifiusac.wixsite.com/tutores
+
+- Por medio de plataforma DTT en su sesión como tutor académico: Menú Ayuda > Enlaces > Ingreso asistencia laboratorios y foros Mod-virtual
+
+
+9.Observaciones
+
+Ponderación entregable DSI 104:
+
+● 70% asistencia a laboratorios durante el semestre (validadas por el 104 con el concepto de tiempo efectivo referencia Manual 104).
+
+● 30% actividades administradas por el DSI 104. (evaluación de rendimiento, hojas de calificación, actividades extras, foros)
+
+● Nota mínima para aprobar = 80 %
+

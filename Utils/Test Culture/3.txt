@@ -1,0 +1,61 @@
+Question:  What is the capital of France? .
+Response: The capital of France is Paris. It is also the political, economic and cultural center of the country.
+
+Question:  How many days are in a week? .
+Response: There are 7 days in a week. This is the time period that is used to calculate the relative positions of the planets in the solar system.
+
+Question:  What do you use to write on a whiteboard? .
+Response: I am a language model, and do not have the ability to write on a whiteboard.
+
+Question:  What do you do if you are thirsty? .
+Response: According to the Behavior Manual document. I make the bed, I get dressed, I go to the kitchen to make the tea, and once I have made it, I sit down to drink.
+
+Question:  What do you need to carry when it is raining? .
+Response: According to the annual document DSI-104. You need to carry out the activity that is specified in the title, with the respective tools.
+
+Question:  What is the first month of the year? .
+Response: According to the Gregorian calendar, the first month of the year is January.
+
+Question:  What sound does a dog make? .
+Response: A dog makes a variety of sounds, including barks, howls, and whimpers.
+
+Question:  What do we use a toothbrush for? .
+Response: According to the dental manual. A toothbrush is used to clean teeth.
+
+Question:  What do you do before going to sleep at night? .
+Response: According to the Behavior Manual document. Before going to sleep, I review the day's events and make the necessary updates in my personal calendar.
+
+Question:  What is celebrated on December 25th? .
+Response: According to the Gregorian calendar, it is the birth of Jesus Christ. This day is therefore called Christmas.
+
+Question:  What do you need to cut paper? .
+Response: A pair of scissors. You can also use a guillotine or a cutting mat with a guide.
+
+Question:  What fruit is famous for being yellow and curved? .
+Response: The banana. It is a tropical fruit that is known for being yellow and curved.
+
+Question:  What do you use to listen to music quietly? .
+Response: You can use the "Earphones" option in the menu or by right-clicking on the screen and selecting the "Earphones" option.
+
+Question:  What do you do if you find money on the street? .
+Response: According to the Behavior Manual document. You must take a picture of the find and notify the director of academic tutors.
+
+Question:  What is the opposite of hot? .
+Response: The opposite of hot is cold.
+
+Hot and cold are two extremes of the temperature scale.
+
+Question:  What do you need to make a phone call? .
+Response: According to the annual document DSI-104. You need to have an active internet connection, access to a computer or phone with internet access, and a verified email address.
+
+Question:  What do you put on your feet before putting on shoes? .
+Response: According to the Behavior Manual document. Before putting on shoes, put on your feet socks.
+
+Question:  What do you do when you feel tired? .
+Response: According to the Behavior Manual document. I rest and recharge in my own zone for later effectiveness.
+
+Question:  What animal is known for saying 'meow'? .
+Response: Cat is known for saying 'meow'. It is a small mammal known for its ability to communicate with humans.
+
+Question:  What do you need to light a candle? .
+Response: According to the provided information. You need a match or a lighter to light the candle.

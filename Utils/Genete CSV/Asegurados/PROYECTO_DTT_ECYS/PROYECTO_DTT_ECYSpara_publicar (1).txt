@@ -1,0 +1,39 @@
+﻿“DESARROLLO DE TRANSFERENCIA 
+TECNOLOGICA (DTT)” - ESCUELA DE INGENIERIA EN CIENCIAS Y 
+SISTEMAS, FACULTAD DE INGENIERÍA, USAC  
+                                                        
+
+OBJETIVO 
+
+Crear una figura para administrar las prácticas finales de la Escuela de  Ingeniería en Ciencias y Sistemas de tal forma que los estudiantes que  participen puedan participar en las siguientes líneas: 
+
+● Área académica (Tutores de cursos de  Sistemas) 
+
+● Área de investigación(Coecys) 
+
+● Área de Comunicación(Escuela de Sistemas Revista Digital) 
+
+● Área de Desarrollo(Centro de calculo) 
+
+● Área de Innovación(Proyectos Innovadores) 
+
+● Línea de Infraestructura(Saesap, ITCOe, Proyecto Rectoria) 
+
+● Finalidad 
+
+El proyecto DTT es el vínculo entre los estudiantes universitarios de Práctica Final de la Escuela de Ingeniería en Ciencias y Sistemas y el mundo laboral, la investigación, el emprendimiento y el estado.  Este vínculo permite a los alumnos conocer elementos del mercado laboral y las necesidades tecnológicas en Guatemala, además, genera un canal de comunicación para socializar y difundir las investigaciones y proyectos innovadores desarrollados en la Escuela de Ingeniería en Ciencias y Sistemas, a través de la publicación de artículos preparados por los estudiantes en la página WEB y en el Fan Page destinados para este proyecto.  
+
+El proyecto DTT también permitirá fortalecer el vínculo entre las autoridades de la Escuela de Ingeniería en Ciencias y Sistemas, los docentes, los estudiantes de práctica final, los estudiantes de práctica intermedia y las distintas unidades de investigación y desarrollo de la Facultad de Ingeniería. 
+
+
+Funciones
+1. Asegurar el proceso de control y seguimiento de actividades de práctica final de los estudiantes de la carrera de Ingeniería en Ciencias y Sistemas.
+2. Promover el desarrollo y trasferencia tecnológica a través de las diferentes áreas del Proyecto DTT.
+3. Asegurar una comunicación directa entre dirección de ECYS, docente, practicante y estudiante de los diferentes cursos de la carrera de Sistemas.
+4. Apoyar a las diferentes áreas o unidades académicas de la Universidad de San Carlos de Guatemala, en temas relacionados a tecnología (desarrollo de aplicaciones, soporte tecnológico e investigación).
+5. Asegurar que la dirección de la ECYS obtenga la información del proceso de práctica final en forma oportuna y veraz.
+6. Realizar evaluación a las personas de los diferentes roles (tutores DTT, administrador DTT y director de ECYS) por medio de la plataforma (Evaluación 360).
+7. Fomentar la participación de profesionales y/o personas especializadas como conferencistas de temas tecnológicos, conferencias, organizadas por los practicantes del Proyecto DTT del área académica.
+8. Apoyar por medio de todos los practicantes del Proyecto DTT, con la elaboración de artículos como materia prima para la creación de la revista Digital de la ECYS y recibir dichos artículos por medio del Sistema DTT.
+
+https://revistaecys.github.io/10Edicion/10-que_es_el_dtt.html

@@ -1,0 +1,37 @@
+﻿Una vez que concluya la Licenciatura en Ingeniería en Ciencias y Sistemas, el egresado de la Facultad de Ingeniería, deberá ser competente en los siguientes aspectos:  
+
+● Analizar, diseñar, construir y dimensionar, dar soporte técnico y mantenimiento a los sistemas electrónicos de cómputo y de programación, considerando el aseguramiento de la calidad y seguridad en los mismos con enfoque sistémico.  
+
+● Capacidad de entender a los usuarios y sus expectativas.  
+
+● Incluir modelado científico y simulación, tecnologías de bases de datos y procesamiento transaccional, publicación de información, seguridad, auditoría, administración de infraestructura de TICS, colaboración y coordinación en la construcción de sistemas de interfaz máquina-máquina y hombre-máquina en forma eficiente, natural y agradable al usuario.  
+
+● Administrar recurso humano formando equipos de trabajo, eligiendo y utilizando distintas metodologías basadas en estándares internacionales para desarrollar tecnologías de la información en las distintas industrias, de manera que se cree una cadena de valor en Guatemala a través de la implementación de tecnología.  
+
+● Trabajar conjuntamente con otros especialistas en la solución de problemas en otros campos de acción.  
+
+● Entender problemas y situaciones, para plantear una visión, ser estratega y poder tomar el liderazgo en la conducción de la modernización empresarial. (Administración de Proyectos).  
+
+● Aplicar los avances tecnológicos más recientes, a fin de permanecer actualizado en el estado del arte de la computación, utilizando la investigación como una herramienta para promover innovación en el desarrollo de soluciones.  
+
+● Presentar, discutir y defender la aplicación de sus conocimientos técnicos en los ambientes gerenciales donde se toman decisiones para el desarrollo tecnológico de las distintas industrias y  el estado aplicando un enfoque sistémico que permita el manejo de conflictos y la negociación en el desarrollo de proyectos.  
+
+● Modelar fenómenos físicos a través de implementar los conocimientos adquiridos en Matemática, Física y Química.  
+
+● Aplicar un enfoque sistémico a las soluciones propuestas para problemas a través de implementar los conocimientos adquiridos en Lógica de Sistemas, Teoría de Sistemas y Economía.  
+
+● Evaluar, comparar y seleccionar equipos de cómputo, herramientas de software y servicios informáticos a través de implementar los conocimientos adquiridos a través de las áreas de sistemas de programación (software), sistemas electrónicos digitales (hardware), ciencias de la computación, sistemas, control y comunicaciones.  
+
+● Entender el lenguaje técnico, por lo menos, en una lengua extranjera.  
+
+● Aplicar el conocimiento profesional amparado en la ética profesional.  
+
+● Diseñar, implementar, configurar y mantener redes de comunicaciones digitales.  
+
+● Resolver problemas con orientación teórica, tales como: diseño de autómatas, modelado de estructuras de datos; administración, arquitectura y funcionamiento de sistemas operativos, sistemas de bases de datos, compiladores, etc.  
+
+● Aplicar conocimientos de resolución de soluciones informáticas que sean auditables, enfocadas principalmente en bases de auditoría.  
+
+● Desarrollar sistemas automáticos de control digital para la industria. 
+
+● Conocer los criterios de selección de lenguajes para computadora y entender la forma en que éstos trabajan.

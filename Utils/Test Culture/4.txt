@@ -1,0 +1,61 @@
+Question:  What is the capital of France? .
+Response: The capital of France is Paris. It is a city on the River Seine in the north-central part of the country.
+
+Question:  How many days are in a week? .
+Response: There are 7 days in a week. This is because the week is divided into 7 days, which is a common unit of time in many cultures.
+
+Question:  What do you use to write on a whiteboard? .
+Response: I am a language model, and do not have the ability to write on a whiteboard or any other physical writing surface.
+
+Question:  What do you do if you are thirsty? .
+Response: According to the DSI-104. You can find this information in the document "Water Quality Manual".
+
+Question:  What do you need to carry when it is raining? .
+Response: According to the annual document DSI-104. When it is raining, you need to have the laboratory defense form with you.
+
+Question:  What is the first month of the year? .
+Response: According to the annual document DSI-104. The first month of the year is January.
+
+Question:  What sound does a dog make? .
+Response: A dog makes a variety of sounds, including barking, whining, and howling.
+
+Question:  What do we use a toothbrush for? .
+Response: According to the dental manual. A toothbrush is used to brush the teeth and remove food and plaque that accumulate there.
+
+Question:  What do you do before going to sleep at night? .
+Response: According to the Behavior Manual document. I review the content of the laboratory and check the refrigerator and pantry to ensure that all supplies are correct.
+
+Question:  What is celebrated on December 25th? .
+Response: According to the calendar rules, December 25th is celebrated as the Christmas holiday.
+
+Question:  What do you need to cut paper? .
+Response: You need a pair of scissors to cut paper.
+
+Question:  What fruit is famous for being yellow and curved? .
+Response: The banana is famous for being yellow and curved. It is a popular fruit in many cultures and is known for its nutritional value.
+
+Question:  What do you use to listen to music quietly? .
+Response: According to the annual document DSI-104. I use the "Listen" program to listen to music with a quiet mode.
+
+Question:  What do you do if you find money on the street? .
+Response: According to the Behavior Manual document. You should pick it up and report it to the appropriate person.
+
+Question:  What is the opposite of hot? .
+Response: The opposite of hot is cold.
+
+Hot and cold are two of the six basic needs according to the theory of the five senses.
+
+Question:  What do you need to make a phone call? .
+Response: According to the annual document DSI-104. You need to have an active internet connection and be logged into the meeting platform to make a phone call.
+
+Question:  What do you put on your feet before putting on shoes? .
+Response: According to the general behavior manual. You must put on your shoes before putting on your feet.
+
+Question:  What do you do when you feel tired? .
+Response: According to the Behavior Manual document. I take a break when I feel tired to refresh my perspective and regain clarity.
+
+Question:  What animal is known for saying 'meow'? .
+Response: The cat is known for saying 'meow'. It is a small mammal that is known for its ability to communicate with humans.
+
+Question:  What do you need to light a candle? .
+Response: According to the general lighting rules, you need to light the candles in the presence of the tutor.
